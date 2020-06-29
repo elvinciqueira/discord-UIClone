@@ -12,7 +12,7 @@ UI Clone - Discord
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
-s
+
 
 ## Usage
 
